@@ -59,8 +59,8 @@ Given majority of costs for our client are fixed regardless of borough, it would
 
 ### 3. Is there a statistical significance between number of reviews and price? 
 
-![Repo List](pictures/Reviews.jpg)
-![Repo List](pictures/table1.jpg)
+![Repo List](pictures/Reviews.png)
+![Repo List](pictures/table1.png)
 
 From the above multiple comparison anova test we can see that the price difference between each review groups are different. In general, the listings with higher prices has less reviews, while listings with lower prices with more reviews. It indicates that the cheaper homes/rooms are more popular in the market.
 
