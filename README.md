@@ -25,10 +25,23 @@ Once we established the target market, we will further explore steps to increase
     - Is there a statistical significance between number of reviews and price?if so at which levels
     - Is there a statistical significance between length of titles and number of reviews? if so at which levels
 
-### Null Hypothesis:
+### Are there any significant price difference between room types?
 
+![Repo List](pictures/Rooms_Distributions.jpg)
 
+Now, visually we can see some statistically differences in price between private and shared rooms. However, we can't tell if this is also the case for hotel rooms and entire homes.
 
+Logically speaking, we would expect price of entire home > hotel > private > shared rooms. That being said, we need to statistically test this using an ANOVA test followed by a Tukey's test. 
 
+Before setting our test, we need to set the null and hypothesis statements alongside the alpha value.
 
+H-null: Mean price of entire homes = Mean price of hotel rooms
+H-alt: Mean price of entire homes > Mean price of hotel rooms
+alpha = 0.05
+
+![Repo List](pictures/Tukey.png)
+
+As per above, we can reject our null hypothesis.  
+
+![Repo List](pictures/Profitability.png)
 
