@@ -56,3 +56,13 @@ According to the plots above, we can see there are clear price differences betwe
 ![Repo List](pictures/LondonMap.png)
 
 Given majority of costs for our client are fixed regardless of borough, it would be wise to narrow down the target market to inner London boroughs, as depicted above
+
+### 3. Is there a statistical significance between number of reviews and price? 
+
+![Repo List](pictures/Reviews.png)
+![Repo List](pictures/table1.png)
+
+From the above multiple comparison anova test we can see that the price difference between each review groups are different. In general, the listings with higher prices has less reviews, while listings with lower prices with more reviews. It indicates that the cheaper homes/rooms are more popular in the market.
+
+We suggest the new hosts can make a pricing strategy that to give more price incentives like discount in short term in order to attract more reviews; and gradually increase the price back to market level in long term when it hits stable amount of reviews.
+
