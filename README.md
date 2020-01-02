@@ -27,7 +27,7 @@ Once we established the target market, we will further explore steps to increase
 
 ### Are there any significant price difference between room types?
 
-![Repo List](pictures/Rooms_Distributions.jpg)
+![Repo List](pictures/Rooms_Distributions.png)
 
 Now, visually we can see some statistically differences in price between private and shared rooms. However, we can't tell if this is also the case for hotel rooms and entire homes.
 
@@ -44,4 +44,6 @@ alpha = 0.05
 As per above, we can reject our null hypothesis.  
 
 ![Repo List](pictures/Profitability.png)
+
+There is statistically significant difference between prices of room type. To achieve better profitability for both client and its final benefactor, we suggest focusing more on entire homes, followed by private rooms.
 
