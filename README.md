@@ -25,7 +25,7 @@ Once we established the target market, we will further explore steps to increase
     - Is there a statistical significance between number of reviews and price?if so at which levels
     - Is there a statistical significance between length of titles and number of reviews? if so at which levels
 
-### Are there any significant price difference between room types?
+### 1. Are there any significant price difference between room types?
 
 ![Repo List](pictures/Rooms_Distributions.png)
 
@@ -47,3 +47,12 @@ As per above, we can reject our null hypothesis.
 
 There is statistically significant difference between prices of room type. To achieve better profitability for both client and its final benefactor, we suggest focusing more on entire homes, followed by private rooms.
 
+### 2. Are there significant price differences between London neighbourhoods?
+
+![Repo List](pictures/Violin.png)
+
+According to the plots above, we can see there are clear price differences between majority of the boroughs. Running an ANOVA test followed by Tukey's can confirm this.
+
+![Repo List](pictures/LondonMap.png)
+
+Given majority of costs for our client are fixed regardless of borough, it would be wise to narrow down the target market to inner London boroughs, as depicted above
