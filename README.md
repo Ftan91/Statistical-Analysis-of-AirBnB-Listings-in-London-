@@ -56,3 +56,6 @@ According to the plots above, we can see there are clear price differences betwe
 ![Repo List](pictures/LondonMap.png)
 
 Given majority of costs for our client are fixed regardless of borough, it would be wise to narrow down the target market to inner London boroughs, as depicted above
+
+### 3. Is there a statistical significance between number of reviews and price? 
+
