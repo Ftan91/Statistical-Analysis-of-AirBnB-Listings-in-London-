@@ -4,7 +4,7 @@
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in London, UK for 2019 (except 2019.12).
 
 ## Acknowledgements
-This public dataset is part of Airbnb, and the original source can be found on this [website](http://insideairbnb.com/).
+The London airbnb listings dataset is part of Airbnb, and the original source can be found on this [website](http://insideairbnb.com/).
 
 ## Install:
 - pandas
