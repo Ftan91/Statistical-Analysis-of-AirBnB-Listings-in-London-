@@ -66,3 +66,9 @@ From the above multiple comparison anova test we can see that the price differen
 
 We suggest the new hosts can make a pricing strategy that to give more price incentives like discount in short term in order to attract more reviews; and gradually increase the price back to market level in long term when it hits stable amount of reviews.
 
+### 4. Is there a statistical significance between length of titles and number of reviews?
+
+![Repo List](pictures/review.png)
+![Repo List](pictures/reviewboxplot.png)
+
+The length of name has significance with number of reviews (length with less/more than 16 characters). From the chart above, name with length of less than 16 characters has higher mean value of review numbers. Therefore, we suggest host to post title with less characters.
