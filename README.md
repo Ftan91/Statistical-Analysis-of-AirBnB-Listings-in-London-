@@ -3,7 +3,7 @@
 ## Context
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. As such, the platform has experienced a surge of property listing which eventually led to emergence of hospitality management companies specializing in managing the end-to-end process of listing an AirBnB property; keys management, professional cleaning, marketing and pricing. Such companies existed these days in London include:
 
-![Repo List](airsorted)
+![Repo List](airsorted.jpg)
 
 
 
