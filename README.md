@@ -1,18 +1,16 @@
 # Module 3: London Airbnb 2019 Listings Analysis
 
 ## Context
-Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. As such, the platform has experienced a surge of property listing which eventually led to emergence of hospitality management companies specializing in managing the end-to-end process of listing an AirBnB property; keys management, professional cleaning, marketing and pricing. Such companies existed these days in London include:
+Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. As such, the platform has experienced a surge of property listing which eventually led to emergence of hospitality management companies specializing in managing the end-to-end process of listing an AirBnB property including keys management, professional cleaning, marketing and pricing. Some of the London based companies include:
 
-![Repo List](airsorted.jpg)
+![Repo List](pictures/airsorted.jpg)
+![Repo List](pictures/hostmaker.jpg)
 
+To set the context, we are a independent rental consultancy company hired by one of the companies above that wishes to extend their presence in the London market. The purpose of this project to help our client in choosing the right market in London (in terms of property type and the location), followed by providing some valuable insights onto how they can increase traffic onto their advertised properties (length of description title and number of reviews).
 
-
-
-
-This dataset describes the listing activity and metrics in London, UK for 2019 (except 2019.12).
 
 ## Acknowledgements
-The London airbnb listings dataset is part of Airbnb, and the original source can be found on this [website](http://insideairbnb.com/).
+The London airbnb listings dataset is part of Airbnb, and the original source can be found on this [website](http://insideairbnb.com/). This dataset describes the listing activity and metrics in London, UK for 2019 (except 2019.12).
 
 ## Install:
 - pandas
@@ -34,7 +32,7 @@ The London airbnb listings dataset is part of Airbnb, and the original source ca
 - There is no statistical significant difference between number of reviews and price.
 - There is no statistical significant difference between number of reviews and length of listing titles.
 
-test, test
+
 
 We will be using the London airbnb listings database to perform a hypothesis test to answer the following question.
 - **Is there a statistical significance between number of reviews and price?if so at which levels**
