@@ -5,6 +5,7 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 
 ![Repo List](pictures/airsorted.jpg)
 ![Repo List](pictures/hostmaker.jpg)
+
 To set the context, we are an independent rental consultancy firm hired by one of the companies above that wishes to extend their presence in the London market. The purpose of this project to help our client in choosing the right market in London (in terms of property type and the location), followed by providing some valuable insights onto how they can increase traffic onto their advertised properties (length of description title and number of reviews).
 
 
