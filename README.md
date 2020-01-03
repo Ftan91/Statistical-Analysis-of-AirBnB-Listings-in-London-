@@ -10,11 +10,12 @@ To set the context, we are an independent rental consultancy firm hired by one o
 
 
 ## Acknowledgements & Data Source
-The London airbnb listings dataset is part of Airbnb, and the original source can be found on this [website](http://insideairbnb.com/). This dataset describes the listing activity and metrics in London, UK for 2019 (except 2019.12).
+The London airbnb listings dataset is part of Airbnb, and the original source can be found on this [website](http://insideairbnb.com/). 
 
-## Code Background:
+## Dataset & Code Background:
+This dataset describes the listing activity and metrics in London, UK for 2019 (except 2019.12). Dataset contains c. 817k of AirBnb listing by host with 16 variables features describing the property type, listing details and host details to name a few.
+
 The key deliverables in this project can be found in the 'london_airbnb.ipynb' notebook alongside the Keynote slide. All of the python functions can be found seperately within the 'shuyu-finn.py' file in the 'external_modules' folder
-
 
 ## Summary:
 To start off, we have decided to narrow down the target market for our client by running two initial hypothesis test:
